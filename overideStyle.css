@@ -4,7 +4,7 @@
 
 body{
     background-color: white !important;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 
 ul{
@@ -26,11 +26,11 @@ ul{
 }
 
 .sky-blue{
-    color: #387ed1;
+    color: #387ed1 !important;
 }
 
 .bg-sky-blue{
-    background-color: #387ed1;
+    background-color: #387ed1 !important;
 }
 
 .fw-400{
